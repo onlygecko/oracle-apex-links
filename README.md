@@ -26,3 +26,10 @@ This repository contains links regarding APEX topics. Feel free to suggest links
 * [Dimitri Gielis Blog (Oracle Application Express - APEX)](http://dgielis.blogspot.com/)
 * [Maxime Tremblay's Blog](http://max-tremblay.blogspot.de/)
 * [ORACLE APEX Tips](http://orclapextips.blogspot.com)
+
+## Tools & IDEs
+
+* [SQLDeveloper](http://www.oracle.com/technetwork/developer-tools/sql-developer/overview/index.html)
+* [SQLcl (the _new_ SQL*Plus)](http://www.oracle.com/technetwork/developer-tools/sqlcl/overview/index.html)
+* [APEX Frontend Boost](https://github.com/OraOpenSource/apex-frontend-boost)
+  * "APEX Front-End Boost is a local web server that hosts and distributes your static files to your APEX application."
