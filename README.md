@@ -6,6 +6,11 @@ This repository contains links regarding APEX topics. Feel free to suggest links
   * [Install Oracle 12C Release 1 (12.1) on Centos Linux 7](http://dbaora.com/install-oracle-12c-release-1-12-1-on-centos-linux-7/)
   * [Install and configure Apex 5.0.X embedded PL/SQL](http://dbaora.com/install-and-configure-apex-5-0-x-embedded-plsql/)
 
+## Maintainance
+
+* [Export Apex App via terminal](https://ruepprich.wordpress.com/2011/07/15/exporting-an-apex-application-via-command-line/)
+  * Check, which ojdbcX.jar is available on your system.
+
 ## Tutorials
 
 ## PlugIns
