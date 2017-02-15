@@ -9,7 +9,6 @@ This repository contains links regarding APEX topics. Feel free to suggest links
   * [Install Oracle 12C Release 1 (12.1) on Centos Linux 7](http://dbaora.com/install-oracle-12c-release-1-12-1-on-centos-linux-7/)
   * [Install and configure Apex 5.0.X embedded PL/SQL](http://dbaora.com/install-and-configure-apex-5-0-x-embedded-plsql/)
 * [Downgrade 5.1 -> 5.0](http://jastraub.blogspot.de/2017/01/ooops-i-did-it-again.html)
-* [Tomcat adjustments](http://www.cloudnueva.com/blog/tuning-tomcat-for-apexords-in-production)
 
 ## Maintainance
 
@@ -17,10 +16,16 @@ This repository contains links regarding APEX topics. Feel free to suggest links
   * Check, which ojdbcX.jar is available on your system.
 * [Export / backup scripts](https://github.com/OraOpenSource/apexbackup)
 * [Export / backup script to svn](http://sve.to/2012/03/12/automatically-backup-oracle-apex-applications-to-subversion/)
+* [Statistics via SQLDeveloper](http://dgielis.blogspot.de/2011/12/sql-developer-application-express.html)
+* [Tomcat adjustments](http://www.cloudnueva.com/blog/tuning-tomcat-for-apexords-in-production)
+* [Glassfish adjustments](http://www.cloudnueva.com/blog/tuning-glassfish-for-oracle-apex-ords-in-production)
 
 ## Tutorials
 
 * [Interactive Reports: No initial data loading](http://www.apexsolutions.de/blog/allgemein/interactive-report-without-initial-results/)
+* [Create a plugin](http://www.stefan-armbruster.com/index.php/10-it/apex/10-how-to-create-an-apex-plugin-2)
+* [AJAX Call to Backend via apex.server.process](http://tpetrus.blogspot.de/2013/03/ajax-in-apex-introduction-and-techniques.html)
+** Is there a better tutorial?
 
 ## PlugIns
 * [Select2 APEX Plugin)](https://github.com/nbuytaert1/apex-select2)
@@ -31,6 +36,7 @@ This repository contains links regarding APEX topics. Feel free to suggest links
 * [APEX - A litte bit of everything](http://rimblas.com/blog/)
 * [APEX at work](http://www.apex-at-work.com/)
 * [APEXPLAINED](https://apexplained.wordpress.com/)
+* [Cloud Nueva](http://www.cloudnueva.com/1/feed)
 * [Denes Kubicek ApEx BLOG](http://deneskubicek.blogspot.com)
 * [Dimitri Gielis Blog (Oracle Application Express - APEX)](http://dgielis.blogspot.com/)
 * [Maxime Tremblay's Blog](http://max-tremblay.blogspot.de/)
