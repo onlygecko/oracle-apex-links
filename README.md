@@ -9,6 +9,8 @@ This repository contains links regarding APEX topics. Feel free to suggest links
   * [Install Oracle 12C Release 1 (12.1) on Centos Linux 7](http://dbaora.com/install-oracle-12c-release-1-12-1-on-centos-linux-7/)
   * [Install and configure Apex 5.0.X embedded PL/SQL](http://dbaora.com/install-and-configure-apex-5-0-x-embedded-plsql/)
 * [Downgrade 5.1 -> 5.0](http://jastraub.blogspot.de/2017/01/ooops-i-did-it-again.html)
+* Upgrade Apex 5.0 to 5.1
+  * [Upgrade Oracle APEX 5.1 – Grant Issues](http://farzadsoltani.com/2017/03/01/upgrade-oracle-apex-5-1-grant-issues/)
 
 ## Maintainance
 
@@ -18,6 +20,7 @@ This repository contains links regarding APEX topics. Feel free to suggest links
 * [Export / backup script to svn](http://sve.to/2012/03/12/automatically-backup-oracle-apex-applications-to-subversion/)
 * [Statistics via SQLDeveloper](http://dgielis.blogspot.de/2011/12/sql-developer-application-express.html)
 * [Tomcat adjustments](http://www.cloudnueva.com/blog/tuning-tomcat-for-apexords-in-production)
+* [Make tomcat wait until oracle database is available](http://warp11.nl/2017/03/make-tomcat-wait-until-oracle-database-is-available/)
 * [Glassfish adjustments](http://www.cloudnueva.com/blog/tuning-glassfish-for-oracle-apex-ords-in-production)
 
 ## Tutorials
@@ -26,10 +29,15 @@ This repository contains links regarding APEX topics. Feel free to suggest links
 * [Create a plugin](http://www.stefan-armbruster.com/index.php/10-it/apex/10-how-to-create-an-apex-plugin-2)
 * [AJAX Call to Backend via apex.server.process](http://tpetrus.blogspot.de/2013/03/ajax-in-apex-introduction-and-techniques.html)
 ** Is there a better tutorial?
+* [Hack Interactive Grid (APEX 5.1)](http://hardlikesoftware.com/weblog/2017/01/18/how-to-hack-apex-interactive-grid-part-1/)
 
 ## PlugIns
 * [Select2 APEX Plugin)](https://github.com/nbuytaert1/apex-select2)
   * [Select2](https://select2.github.io/) - JavaScript _Select list_ library
+
+## Sicherheit
+* [OWASP Wiki Page for APEX](https://www.owasp.org/index.php/Application_Express_(ApEx))
+* [OWASP Wiki Page for Oracle DB](https://www.owasp.org/index.php/Testing_for_Oracle)
 
 ## Blogs
 
