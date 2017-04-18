@@ -30,6 +30,14 @@ This repository contains links regarding APEX topics. Feel free to suggest links
 * [AJAX Call to Backend via apex.server.process](http://tpetrus.blogspot.de/2013/03/ajax-in-apex-introduction-and-techniques.html)
 ** Is there a better tutorial?
 * [Hack Interactive Grid (APEX 5.1)](http://hardlikesoftware.com/weblog/2017/01/18/how-to-hack-apex-interactive-grid-part-1/)
+* [Button in Region Title (APEX 5.1)](http://max-tremblay.blogspot.de/2016/05/button-in-region-title.html)
+* [Customizing Cards Report (APEX 5.1)](http://max-tremblay.blogspot.de/2016/09/customizing-cards-report.html)
+* [Display the Page Alias on every page (APEX 5)](http://nuijten.blogspot.de/2017/01/apex-display-page-alias-on-every-page.html)
+* [Close Modal Dialog When Clicking Outside (APEX 5.1)](http://max-tremblay.blogspot.de/2016/06/close-modal-dialog-when-clicking-outside.html)
+* [Region in Left-side Navbar Menu (APEX 5)](http://max-tremblay.blogspot.de/2016/04/region-in-left-side-navbar-menu.html)
+* [Securing Ajax Callback Process (APEX 5)](http://max-tremblay.blogspot.de/2016/09/securing-ajax-callback-process.html)
+* [Workaround for missing 'Undo Delete' (APEX 5)](https://apex.oracle.com/pls/apex/germancommunities/apexcommunity/tipp/5921/index-en.html)
+* [Complete Guide: Dynamic actions (APEX 5)](http://www.explorer-development.uk.com/complete-guide-da)
 
 ## PlugIns
 * [Select2 APEX Plugin)](https://github.com/nbuytaert1/apex-select2)
