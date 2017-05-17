@@ -22,6 +22,7 @@ This repository contains links regarding APEX topics. Feel free to suggest links
 * [Tomcat adjustments](http://www.cloudnueva.com/blog/tuning-tomcat-for-apexords-in-production)
 * [Make tomcat wait until oracle database is available](http://warp11.nl/2017/03/make-tomcat-wait-until-oracle-database-is-available/)
 * [Glassfish adjustments](http://www.cloudnueva.com/blog/tuning-glassfish-for-oracle-apex-ords-in-production)
+* [APEX and ORDS in 2 steps](http://joelkallman.blogspot.de/2017/05/apex-and-ords-up-and-running-in2-steps.html)
 
 ## Tutorials
 
@@ -38,6 +39,8 @@ This repository contains links regarding APEX topics. Feel free to suggest links
 * [Securing Ajax Callback Process (APEX 5)](http://max-tremblay.blogspot.de/2016/09/securing-ajax-callback-process.html)
 * [Workaround for missing 'Undo Delete' (APEX 5)](https://apex.oracle.com/pls/apex/germancommunities/apexcommunity/tipp/5921/index-en.html)
 * [Complete Guide: Dynamic actions (APEX 5)](http://www.explorer-development.uk.com/complete-guide-da)
+* [JET pie chart in APEX with absolute numbers as data labels (APEX 5.1)](http://www.apex-at-work.com/2017/05/jet-pie-chart-in-apex-with-absolute.html)
+* [Show an animated indicator after page submit “Please wait”](http://allipierreapex.blogspot.de/2017/04/show-animated-please-wait-indicator.html)
 
 ## PlugIns
 * [Select2 APEX Plugin)](https://github.com/nbuytaert1/apex-select2)
@@ -64,3 +67,8 @@ This repository contains links regarding APEX topics. Feel free to suggest links
 * [SQLcl (the _new_ SQL*Plus)](http://www.oracle.com/technetwork/developer-tools/sqlcl/overview/index.html)
 * [APEX Frontend Boost](https://github.com/OraOpenSource/apex-frontend-boost)
   * "APEX Front-End Boost is a local web server that hosts and distributes your static files to your APEX application."
+
+## Development & Deployment
+
+* [Docker Image](https://github.com/Dani3lSun/docker-db-apex-dev)
+* [Oracle APEX Version Control](https://www.insum.ca/oracle-apex-version-control/)
