@@ -2,13 +2,14 @@
 This repository contains links regarding APEX topics. Feel free to suggest links to plugins, tutorials, ...
 
 ## General
-* [APEX 5.1 documentation] https://docs.oracle.com/database/apex-5.1/index.htm
+* [APEX 5.1 documentation](https://docs.oracle.com/database/apex-5.1/index.htm)
 
 ## Installation
 * [dbaora.com](http://www.dbaora.com)
   * [Install Oracle 12C Release 1 (12.1) on Centos Linux 7](http://dbaora.com/install-oracle-12c-release-1-12-1-on-centos-linux-7/)
   * [Install and configure Apex 5.0.X embedded PL/SQL](http://dbaora.com/install-and-configure-apex-5-0-x-embedded-plsql/)
 * [Downgrade 5.1 -> 5.0](http://jastraub.blogspot.de/2017/01/ooops-i-did-it-again.html)
+* [Installing Oracle XE, ORDS and Apex on CentOS (APEX 5.0)](http://ora-00001.blogspot.de/2015/06/installing-oracle-xe-ords-and-apex-on-centos-linux-part-zero.html)
 * Upgrade Apex 5.0 to 5.1
   * [Upgrade Oracle APEX 5.1 – Grant Issues](http://farzadsoltani.com/2017/03/01/upgrade-oracle-apex-5-1-grant-issues/)
 
@@ -23,13 +24,14 @@ This repository contains links regarding APEX topics. Feel free to suggest links
 * [Make tomcat wait until oracle database is available](http://warp11.nl/2017/03/make-tomcat-wait-until-oracle-database-is-available/)
 * [Glassfish adjustments](http://www.cloudnueva.com/blog/tuning-glassfish-for-oracle-apex-ords-in-production)
 * [APEX and ORDS in 2 steps](http://joelkallman.blogspot.de/2017/05/apex-and-ords-up-and-running-in2-steps.html)
+* [APEX and HTTPS](https://apex.oracle.com/pls/apex/germancommunities/apexcommunity/tipp/6121/index-en.html)
 
 ## Tutorials
 
 * [Interactive Reports: No initial data loading](http://www.apexsolutions.de/blog/allgemein/interactive-report-without-initial-results/)
 * [Create a plugin](http://www.stefan-armbruster.com/index.php/10-it/apex/10-how-to-create-an-apex-plugin-2)
 * [AJAX Call to Backend via apex.server.process](http://tpetrus.blogspot.de/2013/03/ajax-in-apex-introduction-and-techniques.html)
-** Is there a better tutorial?
+  * Is there a better tutorial?
 * [Hack Interactive Grid (APEX 5.1)](http://hardlikesoftware.com/weblog/2017/01/18/how-to-hack-apex-interactive-grid-part-1/)
 * [Button in Region Title (APEX 5.1)](http://max-tremblay.blogspot.de/2016/05/button-in-region-title.html)
 * [Customizing Cards Report (APEX 5.1)](http://max-tremblay.blogspot.de/2016/09/customizing-cards-report.html)
@@ -41,12 +43,14 @@ This repository contains links regarding APEX topics. Feel free to suggest links
 * [Complete Guide: Dynamic actions (APEX 5)](http://www.explorer-development.uk.com/complete-guide-da)
 * [JET pie chart in APEX with absolute numbers as data labels (APEX 5.1)](http://www.apex-at-work.com/2017/05/jet-pie-chart-in-apex-with-absolute.html)
 * [Show an animated indicator after page submit “Please wait”](http://allipierreapex.blogspot.de/2017/04/show-animated-please-wait-indicator.html)
+* ["Birdseye" view in APEX page overview](http://richarddacre.postach.io/post/get-a-birdseye-view-of-an-apex-app)
+* [Interactive Report Click Actions (APEX 5.X)](http://www.jmjcloud.com/blog/-apex-5x-interactive-report-one-click-wonder)
 
 ## PlugIns
 * [Select2 APEX Plugin)](https://github.com/nbuytaert1/apex-select2)
   * [Select2](https://select2.github.io/) - JavaScript _Select list_ library
 
-## Sicherheit
+## Security
 * [OWASP Wiki Page for APEX](https://www.owasp.org/index.php/Application_Express_(ApEx))
 * [OWASP Wiki Page for Oracle DB](https://www.owasp.org/index.php/Testing_for_Oracle)
 
@@ -72,3 +76,7 @@ This repository contains links regarding APEX topics. Feel free to suggest links
 
 * [Docker Image](https://github.com/Dani3lSun/docker-db-apex-dev)
 * [Oracle APEX Version Control](https://www.insum.ca/oracle-apex-version-control/)
+
+## Misc
+
+* [APEX Dashboard examples (competition results)](https://apex.oracle.com/pls/apex/f?p=59374:4:::NO:RP)
