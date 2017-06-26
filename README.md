@@ -80,3 +80,4 @@ This repository contains links regarding APEX topics. Feel free to suggest links
 ## Misc
 
 * [APEX Dashboard examples (competition results)](https://apex.oracle.com/pls/apex/f?p=59374:4:::NO:RP)
+* [Oracle Schema Export](https://github.com/qwazer/scheme2ddl)
