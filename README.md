@@ -26,6 +26,10 @@ This repository contains links regarding APEX topics. Feel free to suggest links
 * [APEX and ORDS in 2 steps](http://joelkallman.blogspot.de/2017/05/apex-and-ords-up-and-running-in2-steps.html)
 * [APEX and HTTPS](https://apex.oracle.com/pls/apex/germancommunities/apexcommunity/tipp/6121/index-en.html)
 
+### Oracle DB
+
+* (Change host name (Linux))[https://dbawiki.wordpress.com/2012/10/24/hostname-change-at-linux-with-oracle-db/]
+
 ## Tutorials
 
 * [Interactive Reports: No initial data loading](http://www.apexsolutions.de/blog/allgemein/interactive-report-without-initial-results/)
@@ -45,6 +49,8 @@ This repository contains links regarding APEX topics. Feel free to suggest links
 * [Show an animated indicator after page submit “Please wait”](http://allipierreapex.blogspot.de/2017/04/show-animated-please-wait-indicator.html)
 * ["Birdseye" view in APEX page overview](http://richarddacre.postach.io/post/get-a-birdseye-view-of-an-apex-app)
 * [Interactive Report Click Actions (APEX 5.X)](http://www.jmjcloud.com/blog/-apex-5x-interactive-report-one-click-wonder)
+* [Custom (Drop Down) Menus in APEX 5](http://hardlikesoftware.com/weblog/2015/07/13/apex-5-0-custom-menus/)
+* [Escape special characters](http://www.grassroots-oracle.com/2017/01/escape-special-characters-apex-demo.html)
 
 ## PlugIns
 * [Select2 APEX Plugin)](https://github.com/nbuytaert1/apex-select2)
@@ -76,6 +82,7 @@ This repository contains links regarding APEX topics. Feel free to suggest links
 
 * [Docker Image](https://github.com/Dani3lSun/docker-db-apex-dev)
 * [Oracle APEX Version Control](https://www.insum.ca/oracle-apex-version-control/)
+
 
 ## Misc
 
