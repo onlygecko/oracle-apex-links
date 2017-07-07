@@ -12,6 +12,7 @@ This repository contains links regarding APEX topics. Feel free to suggest links
 * [Installing Oracle XE, ORDS and Apex on CentOS (APEX 5.0)](http://ora-00001.blogspot.de/2015/06/installing-oracle-xe-ords-and-apex-on-centos-linux-part-zero.html)
 * Upgrade Apex 5.0 to 5.1
   * [Upgrade Oracle APEX 5.1 – Grant Issues](http://farzadsoltani.com/2017/03/01/upgrade-oracle-apex-5-1-grant-issues/)
+* [OXAR](https://github.com/OraOpenSource/OXAR) - Easy script based APEX installation (on Oracle 11.2g XE)
 
 ## Maintainance
 
