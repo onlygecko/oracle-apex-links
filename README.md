@@ -38,6 +38,7 @@ This repository contains links regarding APEX topics. Feel free to suggest links
 * [AJAX Call to Backend via apex.server.process](http://tpetrus.blogspot.de/2013/03/ajax-in-apex-introduction-and-techniques.html)
   * Is there a better tutorial?
 * [Hack Interactive Grid (APEX 5.1)](http://hardlikesoftware.com/weblog/2017/01/18/how-to-hack-apex-interactive-grid-part-1/)
+* [Interactive Grid Cookbook (>= APEX 5.1)](http://hardlikesoftware.com/weblog/2017/07/10/apex-interactive-grid-cookbook/)
 * [Button in Region Title (APEX 5.1)](http://max-tremblay.blogspot.de/2016/05/button-in-region-title.html)
 * [Customizing Cards Report (APEX 5.1)](http://max-tremblay.blogspot.de/2016/09/customizing-cards-report.html)
 * [Display the Page Alias on every page (APEX 5)](http://nuijten.blogspot.de/2017/01/apex-display-page-alias-on-every-page.html)
@@ -52,6 +53,7 @@ This repository contains links regarding APEX topics. Feel free to suggest links
 * [Interactive Report Click Actions (APEX 5.X)](http://www.jmjcloud.com/blog/-apex-5x-interactive-report-one-click-wonder)
 * [Custom (Drop Down) Menus in APEX 5](http://hardlikesoftware.com/weblog/2015/07/13/apex-5-0-custom-menus/)
 * [Escape special characters](http://www.grassroots-oracle.com/2017/01/escape-special-characters-apex-demo.html)
+* [Create a good looking landing page](https://apex.oracle.com/pls/apex/f?p=16300:1)
 
 ## PlugIns
 * [Select2 APEX Plugin)](https://github.com/nbuytaert1/apex-select2)
@@ -72,6 +74,10 @@ This repository contains links regarding APEX topics. Feel free to suggest links
 * [Maxime Tremblay's Blog](http://max-tremblay.blogspot.de/)
 * [ORACLE APEX Tips](http://orclapextips.blogspot.com)
 
+## Design
+
+* [apex-theme-styles.com](https://apex-theme-styles.com/)
+
 ## Tools & IDEs
 
 * [SQLDeveloper](http://www.oracle.com/technetwork/developer-tools/sql-developer/overview/index.html)
@@ -89,3 +95,4 @@ This repository contains links regarding APEX topics. Feel free to suggest links
 
 * [APEX Dashboard examples (competition results)](https://apex.oracle.com/pls/apex/f?p=59374:4:::NO:RP)
 * [Oracle Schema Export](https://github.com/qwazer/scheme2ddl)
+* Listing of all meta data views: ```select * from apex_dictionary```
