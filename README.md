@@ -84,6 +84,7 @@ This repository contains links regarding APEX topics. Feel free to suggest links
 * [SQLcl (the _new_ SQL*Plus)](http://www.oracle.com/technetwork/developer-tools/sqlcl/overview/index.html)
 * [APEX Frontend Boost](https://github.com/OraOpenSource/apex-frontend-boost)
   * "APEX Front-End Boost is a local web server that hosts and distributes your static files to your APEX application."
+* [QuickSQL - data modeling with APEX] (https://apex.oracle.com/en/quicksql/)
 
 ## Development & Deployment
 
