@@ -54,6 +54,7 @@ This repository contains links regarding APEX topics. Feel free to suggest links
 * [Custom (Drop Down) Menus in APEX 5](http://hardlikesoftware.com/weblog/2015/07/13/apex-5-0-custom-menus/)
 * [Escape special characters](http://www.grassroots-oracle.com/2017/01/escape-special-characters-apex-demo.html)
 * [Create a good looking landing page](https://apex.oracle.com/pls/apex/f?p=16300:1)
+* [Background image on login page](http://www.grassroots-oracle.com/2017/08/apex-login-background-image-cover.html)
 
 ## PlugIns
 * [Select2 APEX Plugin)](https://github.com/nbuytaert1/apex-select2)
@@ -71,6 +72,7 @@ This repository contains links regarding APEX topics. Feel free to suggest links
 * [Cloud Nueva](http://www.cloudnueva.com/1/feed)
 * [Denes Kubicek ApEx BLOG](http://deneskubicek.blogspot.com)
 * [Dimitri Gielis Blog (Oracle Application Express - APEX)](http://dgielis.blogspot.com/)
+* [Grassroots Oracle](http://www.grassroots-oracle.com/2017/08/apex-login-background-image-cover.html)
 * [Maxime Tremblay's Blog](http://max-tremblay.blogspot.de/)
 * [ORACLE APEX Tips](http://orclapextips.blogspot.com)
 
