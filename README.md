@@ -1,6 +1,9 @@
 # Oracle APEX Link collection
 This repository contains links regarding APEX topics. Feel free to suggest links to plugins, tutorials, ...
 
+*Good (structured) link collection by Daniel Hochleiter: https://github.com/Dani3lSun/awesome-orclapex*
+
+
 ## General
 * [APEX 5.1 documentation](https://docs.oracle.com/database/apex-5.1/index.htm)
 
@@ -55,6 +58,7 @@ This repository contains links regarding APEX topics. Feel free to suggest links
 * [Escape special characters](http://www.grassroots-oracle.com/2017/01/escape-special-characters-apex-demo.html)
 * [Create a good looking landing page](https://apex.oracle.com/pls/apex/f?p=16300:1)
 * [Background image on login page](http://www.grassroots-oracle.com/2017/08/apex-login-background-image-cover.html)
+* [Set a FavIcon (APEX 5.1+)](http://www.grassroots-oracle.com/2016/12/declarative-favicon-in-oracle-apex-51.html)
 
 ## PlugIns
 * [Select2 APEX Plugin)](https://github.com/nbuytaert1/apex-select2)
