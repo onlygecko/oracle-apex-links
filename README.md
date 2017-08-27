@@ -91,6 +91,7 @@ This repository contains links regarding APEX topics. Feel free to suggest links
 * [APEX Frontend Boost](https://github.com/OraOpenSource/apex-frontend-boost)
   * "APEX Front-End Boost is a local web server that hosts and distributes your static files to your APEX application."
 * [QuickSQL - data modeling with APEX] (https://apex.oracle.com/en/quicksql/)
+* (OraOpenSource Logger (logging framework)[https://github.com/OraOpenSource/Logger]
 
 ## Development & Deployment
 
