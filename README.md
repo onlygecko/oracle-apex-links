@@ -32,7 +32,8 @@ This repository contains links regarding APEX topics. Feel free to suggest links
 
 ### Oracle DB
 
-* (Change host name (Linux))[https://dbawiki.wordpress.com/2012/10/24/hostname-change-at-linux-with-oracle-db/]
+* [Change host name (Linux)](https://dbawiki.wordpress.com/2012/10/24/hostname-change-at-linux-with-oracle-db/)
+* [Get model from schema (SQLDeveloper](http://www.thatjeffsmith.com/archive/2017/08/the-quickest-way-to-reverse-engineer-your-database-to-a-model/)
 
 ## Tutorials
 
