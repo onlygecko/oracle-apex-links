@@ -59,6 +59,8 @@ This repository contains links regarding APEX topics. Feel free to suggest links
 * [Create a good looking landing page](https://apex.oracle.com/pls/apex/f?p=16300:1)
 * [Background image on login page](http://www.grassroots-oracle.com/2017/08/apex-login-background-image-cover.html)
 * [Set a FavIcon (APEX 5.1+)](http://www.grassroots-oracle.com/2016/12/declarative-favicon-in-oracle-apex-51.html)
+* [Custom Authorization and Authentication scheme](http://dgielis.blogspot.de/2017/08/create-custom-authentication-and.html)
+* [Page Items and JavaScript](https://apex.oracle.com/pls/apex/germancommunities/apexcommunity/tipp/6341/index-en.html)
 
 ## PlugIns
 * [Select2 APEX Plugin)](https://github.com/nbuytaert1/apex-select2)
