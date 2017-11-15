@@ -1,9 +1,6 @@
 # Oracle APEX Link collection
 This repository contains links regarding APEX topics. Feel free to suggest links to plugins, tutorials, ...
 
-*Good (structured) link collection by Daniel Hochleiter: https://github.com/Dani3lSun/awesome-orclapex*
-
-
 ## General
 * [APEX 5.1 documentation](https://docs.oracle.com/database/apex-5.1/index.htm)
 
@@ -15,7 +12,6 @@ This repository contains links regarding APEX topics. Feel free to suggest links
 * [Installing Oracle XE, ORDS and Apex on CentOS (APEX 5.0)](http://ora-00001.blogspot.de/2015/06/installing-oracle-xe-ords-and-apex-on-centos-linux-part-zero.html)
 * Upgrade Apex 5.0 to 5.1
   * [Upgrade Oracle APEX 5.1 – Grant Issues](http://farzadsoltani.com/2017/03/01/upgrade-oracle-apex-5-1-grant-issues/)
-* [OXAR](https://github.com/OraOpenSource/OXAR) - Easy script based APEX installation (on Oracle 11.2g XE)
 
 ## Maintainance
 
@@ -30,11 +26,6 @@ This repository contains links regarding APEX topics. Feel free to suggest links
 * [APEX and ORDS in 2 steps](http://joelkallman.blogspot.de/2017/05/apex-and-ords-up-and-running-in2-steps.html)
 * [APEX and HTTPS](https://apex.oracle.com/pls/apex/germancommunities/apexcommunity/tipp/6121/index-en.html)
 
-### Oracle DB
-
-* [Change host name (Linux)](https://dbawiki.wordpress.com/2012/10/24/hostname-change-at-linux-with-oracle-db/)
-* [Get model from schema (SQLDeveloper](http://www.thatjeffsmith.com/archive/2017/08/the-quickest-way-to-reverse-engineer-your-database-to-a-model/)
-
 ## Tutorials
 
 * [Interactive Reports: No initial data loading](http://www.apexsolutions.de/blog/allgemein/interactive-report-without-initial-results/)
@@ -42,7 +33,6 @@ This repository contains links regarding APEX topics. Feel free to suggest links
 * [AJAX Call to Backend via apex.server.process](http://tpetrus.blogspot.de/2013/03/ajax-in-apex-introduction-and-techniques.html)
   * Is there a better tutorial?
 * [Hack Interactive Grid (APEX 5.1)](http://hardlikesoftware.com/weblog/2017/01/18/how-to-hack-apex-interactive-grid-part-1/)
-* [Interactive Grid Cookbook (>= APEX 5.1)](http://hardlikesoftware.com/weblog/2017/07/24/apex-ig-cookbook-update/)
 * [Button in Region Title (APEX 5.1)](http://max-tremblay.blogspot.de/2016/05/button-in-region-title.html)
 * [Customizing Cards Report (APEX 5.1)](http://max-tremblay.blogspot.de/2016/09/customizing-cards-report.html)
 * [Display the Page Alias on every page (APEX 5)](http://nuijten.blogspot.de/2017/01/apex-display-page-alias-on-every-page.html)
@@ -55,13 +45,9 @@ This repository contains links regarding APEX topics. Feel free to suggest links
 * [Show an animated indicator after page submit “Please wait”](http://allipierreapex.blogspot.de/2017/04/show-animated-please-wait-indicator.html)
 * ["Birdseye" view in APEX page overview](http://richarddacre.postach.io/post/get-a-birdseye-view-of-an-apex-app)
 * [Interactive Report Click Actions (APEX 5.X)](http://www.jmjcloud.com/blog/-apex-5x-interactive-report-one-click-wonder)
-* [Custom (Drop Down) Menus in APEX 5](http://hardlikesoftware.com/weblog/2015/07/13/apex-5-0-custom-menus/)
-* [Escape special characters](http://www.grassroots-oracle.com/2017/01/escape-special-characters-apex-demo.html)
-* [Create a good looking landing page](https://apex.oracle.com/pls/apex/f?p=16300:1)
-* [Background image on login page](http://www.grassroots-oracle.com/2017/08/apex-login-background-image-cover.html)
-* [Set a FavIcon (APEX 5.1+)](http://www.grassroots-oracle.com/2016/12/declarative-favicon-in-oracle-apex-51.html)
-* [Custom Authorization and Authentication scheme](http://dgielis.blogspot.de/2017/08/create-custom-authentication-and.html)
-* [Page Items and JavaScript](https://apex.oracle.com/pls/apex/germancommunities/apexcommunity/tipp/6341/index-en.html)
+* [Interactive Grid without (db) tables](https://apex.oracle.com/pls/apex/germancommunities/apexcommunity/tipp/6361/index-en.html)
+* [Passing more then 10 parameters via AJAX](https://atulley.wordpress.com/2014/02/07/passing-more-than-10-values-with-apex-server-process/)
+* [Parsing JSON in APEX 5.0](http://www.explorer.uk.com/parsing-json-apex-5-0/)
 
 ## PlugIns
 * [Select2 APEX Plugin)](https://github.com/nbuytaert1/apex-select2)
@@ -79,13 +65,8 @@ This repository contains links regarding APEX topics. Feel free to suggest links
 * [Cloud Nueva](http://www.cloudnueva.com/1/feed)
 * [Denes Kubicek ApEx BLOG](http://deneskubicek.blogspot.com)
 * [Dimitri Gielis Blog (Oracle Application Express - APEX)](http://dgielis.blogspot.com/)
-* [Grassroots Oracle](http://www.grassroots-oracle.com/2017/08/apex-login-background-image-cover.html)
 * [Maxime Tremblay's Blog](http://max-tremblay.blogspot.de/)
 * [ORACLE APEX Tips](http://orclapextips.blogspot.com)
-
-## Design
-
-* [apex-theme-styles.com](https://apex-theme-styles.com/)
 
 ## Tools & IDEs
 
@@ -93,17 +74,16 @@ This repository contains links regarding APEX topics. Feel free to suggest links
 * [SQLcl (the _new_ SQL*Plus)](http://www.oracle.com/technetwork/developer-tools/sqlcl/overview/index.html)
 * [APEX Frontend Boost](https://github.com/OraOpenSource/apex-frontend-boost)
   * "APEX Front-End Boost is a local web server that hosts and distributes your static files to your APEX application."
-* [QuickSQL - data modeling with APEX] (https://apex.oracle.com/en/quicksql/)
-* (OraOpenSource Logger (logging framework)[https://github.com/OraOpenSource/Logger]
+* [VSCode and PL/SQL](https://ora-00001.blogspot.de/2017/03/using-vs-code-for-plsql-development.html)
+* [QuickSQL - rapid db modeling](https://apex.oracle.com/en/quicksql/)
+  * [Introduction](http://www.explorer.uk.com/quicksql-saves-time/)
+* [ATAF - APEX test automation framework](https://github.com/schunt1/ATAF)
 
 ## Development & Deployment
 
 * [Docker Image](https://github.com/Dani3lSun/docker-db-apex-dev)
 * [Oracle APEX Version Control](https://www.insum.ca/oracle-apex-version-control/)
 
-
 ## Misc
 
 * [APEX Dashboard examples (competition results)](https://apex.oracle.com/pls/apex/f?p=59374:4:::NO:RP)
-* [Oracle Schema Export](https://github.com/qwazer/scheme2ddl)
-* Listing of all meta data views: ```select * from apex_dictionary```
