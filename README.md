@@ -48,14 +48,21 @@ This repository contains links regarding APEX topics. Feel free to suggest links
 * [Interactive Grid without (db) tables](https://apex.oracle.com/pls/apex/germancommunities/apexcommunity/tipp/6361/index-en.html)
 * [Passing more then 10 parameters via AJAX](https://atulley.wordpress.com/2014/02/07/passing-more-than-10-values-with-apex-server-process/)
 * [Parsing JSON in APEX 5.0](http://www.explorer.uk.com/parsing-json-apex-5-0/)
+* [DATE, TIMESTAMP and Format Masks ...](https://blogs.oracle.com/apex/date%2c-timestamp-and-format-masks)
+* [Write high quality JS code for APEX](https://fuzziebrain.com/content/id/1708/)
+* [JavaScript async/await in APEX](http://vmorneau.me/javascript-async-await/)
 
 ## PlugIns
 * [Select2 APEX Plugin)](https://github.com/nbuytaert1/apex-select2)
   * [Select2](https://select2.github.io/) - JavaScript _Select list_ library
 
 ## Security
-* [OWASP Wiki Page for APEX](https://www.owasp.org/index.php/Application_Express_(ApEx))
+* [OWASP Wiki Page for APEX](https://www.owasp.org/index.php/Application_Express_(ApEx)
 * [OWASP Wiki Page for Oracle DB](https://www.owasp.org/index.php/Testing_for_Oracle)
+* APEX Application Exploits
+  * [Part 1](http://www.wegobeyond.co.uk/blog/entry/oracle-apex-application-exploits-part-1.html)
+  * [Part 2](http://www.wegobeyond.co.uk/blog/entry/oracle-apex-application-exploits-part-2.html)
+  * [Part 3](http://www.wegobeyond.co.uk/blog/entry/oracle-apex-application-exploits-part-3.html)
 
 ## Blogs
 
@@ -67,6 +74,7 @@ This repository contains links regarding APEX topics. Feel free to suggest links
 * [Dimitri Gielis Blog (Oracle Application Express - APEX)](http://dgielis.blogspot.com/)
 * [Maxime Tremblay's Blog](http://max-tremblay.blogspot.de/)
 * [ORACLE APEX Tips](http://orclapextips.blogspot.com)
+* [Talk APEX](https://www.talkapex.com)
 
 ## Tools & IDEs
 
@@ -81,7 +89,10 @@ This repository contains links regarding APEX topics. Feel free to suggest links
 
 ## Development & Deployment
 
-* [Docker Image](https://github.com/Dani3lSun/docker-db-apex-dev)
+* Docker Image
+  * https://github.com/Dani3lSun/docker-db-apex-dev
+  * https://github.com/martindsouza/docker-oracle-setup/blob/master/README.md
+  * https://medium.com/@marcelo.ochoa/managing-dev-test-training-apex-environment-with-docker-bd8a93ab4733
 * [Oracle APEX Version Control](https://www.insum.ca/oracle-apex-version-control/)
 
 ## Misc
