@@ -57,7 +57,7 @@ This repository contains links regarding APEX topics. Feel free to suggest links
   * [Select2](https://select2.github.io/) - JavaScript _Select list_ library
 
 ## Security
-* [OWASP Wiki Page for APEX](https://www.owasp.org/index.php/Application_Express_(ApEx)
+* [OWASP Wiki Page for APEX](https://www.owasp.org/index.php/Application_Express_(ApEx))
 * [OWASP Wiki Page for Oracle DB](https://www.owasp.org/index.php/Testing_for_Oracle)
 * APEX Application Exploits
   * [Part 1](http://www.wegobeyond.co.uk/blog/entry/oracle-apex-application-exploits-part-1.html)
@@ -94,6 +94,12 @@ This repository contains links regarding APEX topics. Feel free to suggest links
   * https://github.com/martindsouza/docker-oracle-setup/blob/master/README.md
   * https://medium.com/@marcelo.ochoa/managing-dev-test-training-apex-environment-with-docker-bd8a93ab4733
 * [Oracle APEX Version Control](https://www.insum.ca/oracle-apex-version-control/)
+
+## Oracle DB
+
+* [Removing Outliers using stddev()](http://www.grassroots-oracle.com/2017/06/removing-outliers-using-stddev.html)
+* [Use the index Luke](http://use-the-index-luke.com/)
+* [Tuning General Parameters for Parallel Execution](https://docs.oracle.com/database/121/VLDBG/GUID-8632FD0C-AB90-4F1F-81B3-58D24C3AAD74.htm#VLDBG1481)
 
 ## Misc
 
