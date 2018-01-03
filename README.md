@@ -32,7 +32,7 @@ This repository contains links regarding APEX topics. Feel free to suggest links
 * [Create a plugin](http://www.stefan-armbruster.com/index.php/10-it/apex/10-how-to-create-an-apex-plugin-2)
 * [AJAX Call to Backend via apex.server.process](http://tpetrus.blogspot.de/2013/03/ajax-in-apex-introduction-and-techniques.html)
   * Is there a better tutorial?
-* [Hack Interactive Grid (APEX 5.1)](http://hardlikesoftware.com/weblog/2017/01/18/how-to-hack-apex-interactive-grid-part-1/)
+* [Hack Interactive Grid (APEX 5.1)](http://hardlikesoftware.com/weblog/2018/01/01/apex-ig-cookbook-for-5-1-4/)
 * [Button in Region Title (APEX 5.1)](http://max-tremblay.blogspot.de/2016/05/button-in-region-title.html)
 * [Customizing Cards Report (APEX 5.1)](http://max-tremblay.blogspot.de/2016/09/customizing-cards-report.html)
 * [Display the Page Alias on every page (APEX 5)](http://nuijten.blogspot.de/2017/01/apex-display-page-alias-on-every-page.html)
