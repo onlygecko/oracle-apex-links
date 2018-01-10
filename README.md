@@ -51,6 +51,8 @@ This repository contains links regarding APEX topics. Feel free to suggest links
 * [DATE, TIMESTAMP and Format Masks ...](https://blogs.oracle.com/apex/date%2c-timestamp-and-format-masks)
 * [Write high quality JS code for APEX](https://fuzziebrain.com/content/id/1708/)
 * [JavaScript async/await in APEX](http://vmorneau.me/javascript-async-await/)
+* [Loadind Excel data into APEX](http://www.explorer.uk.com/options-loading-excel-data-apex-applications)
+* [Oracle Jet JavaScript Customization (APEX 5.1+](http://www.grassroots-oracle.com/2018/01/oraclejet-javascript-customisation.html)
 
 ## PlugIns
 * [Select2 APEX Plugin)](https://github.com/nbuytaert1/apex-select2)
