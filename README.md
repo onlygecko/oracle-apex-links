@@ -53,10 +53,13 @@ This repository contains links regarding APEX topics. Feel free to suggest links
 * [JavaScript async/await in APEX](http://vmorneau.me/javascript-async-await/)
 * [Loadind Excel data into APEX](http://www.explorer.uk.com/options-loading-excel-data-apex-applications)
 * [Oracle Jet JavaScript Customization (APEX 5.1+](http://www.grassroots-oracle.com/2018/01/oraclejet-javascript-customisation.html)
+* [How to Hide & Show a region’s TIMING during development](https://rimblas.com/blog/2018/02/how-to-hide-show-a-regions-timing-during-development/)
+* [APEX Interactive Grid: Preventing Lost Updates & Record Locking](http://www.explorer.uk.com/apex-interactive-grid-preventing-lost-updates-record-locking/)
 
 ## PlugIns
 * [Select2 APEX Plugin)](https://github.com/nbuytaert1/apex-select2)
   * [Select2](https://select2.github.io/) - JavaScript _Select list_ library
+* [PIVOT plugin](https://ora-00001.blogspot.de/2018/02/pivot-table-plugin-for-apex-updated.html)
 
 ## Security
 * [OWASP Wiki Page for APEX](https://www.owasp.org/index.php/Application_Express_(ApEx))
