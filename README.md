@@ -55,6 +55,7 @@ This repository contains links regarding APEX topics. Feel free to suggest links
 * [Oracle Jet JavaScript Customization (APEX 5.1+](http://www.grassroots-oracle.com/2018/01/oraclejet-javascript-customisation.html)
 * [How to Hide & Show a region’s TIMING during development](https://rimblas.com/blog/2018/02/how-to-hide-show-a-regions-timing-during-development/)
 * [APEX Interactive Grid: Preventing Lost Updates & Record Locking](http://www.explorer.uk.com/apex-interactive-grid-preventing-lost-updates-record-locking/)
+* [Pimping Classic report (APEX 5.1)](https://blogs.oracle.com/apex/thats-a-classic-report-really)
 
 ## PlugIns
 * [Select2 APEX Plugin)](https://github.com/nbuytaert1/apex-select2)
