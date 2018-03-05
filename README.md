@@ -48,6 +48,7 @@ This repository contains links regarding APEX topics. Feel free to suggest links
 * [Interactive Grid without (db) tables](https://apex.oracle.com/pls/apex/germancommunities/apexcommunity/tipp/6361/index-en.html)
 * [Passing more then 10 parameters via AJAX](https://atulley.wordpress.com/2014/02/07/passing-more-than-10-values-with-apex-server-process/)
 * [Parsing JSON in APEX 5.0](http://www.explorer.uk.com/parsing-json-apex-5-0/)
+* [Parsing JSON tips](https://blogs.oracle.com/apex/tips-for-parsing-json-in-apex)
 * [DATE, TIMESTAMP and Format Masks ...](https://blogs.oracle.com/apex/date%2c-timestamp-and-format-masks)
 * [Write high quality JS code for APEX](https://fuzziebrain.com/content/id/1708/)
 * [JavaScript async/await in APEX](http://vmorneau.me/javascript-async-await/)
@@ -56,6 +57,7 @@ This repository contains links regarding APEX topics. Feel free to suggest links
 * [How to Hide & Show a region’s TIMING during development](https://rimblas.com/blog/2018/02/how-to-hide-show-a-regions-timing-during-development/)
 * [APEX Interactive Grid: Preventing Lost Updates & Record Locking](http://www.explorer.uk.com/apex-interactive-grid-preventing-lost-updates-record-locking/)
 * [Pimping Classic report (APEX 5.1)](https://blogs.oracle.com/apex/thats-a-classic-report-really)
+* [Interactive Report - Column background color](http://www.apex-at-work.com/2018/03/interactive-report-standard-column.html)
 
 ## PlugIns
 * [Select2 APEX Plugin)](https://github.com/nbuytaert1/apex-select2)
