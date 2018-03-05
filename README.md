@@ -58,6 +58,7 @@ This repository contains links regarding APEX topics. Feel free to suggest links
 * [APEX Interactive Grid: Preventing Lost Updates & Record Locking](http://www.explorer.uk.com/apex-interactive-grid-preventing-lost-updates-record-locking/)
 * [Pimping Classic report (APEX 5.1)](https://blogs.oracle.com/apex/thats-a-classic-report-really)
 * [Interactive Report - Column background color](http://www.apex-at-work.com/2018/03/interactive-report-standard-column.html)
+* [Datepicker Customization](http://max-tremblay.blogspot.de/2018/03/datepicker-customization.html)
 
 ## PlugIns
 * [Select2 APEX Plugin)](https://github.com/nbuytaert1/apex-select2)
