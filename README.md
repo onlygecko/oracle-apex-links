@@ -59,6 +59,8 @@ This repository contains links regarding APEX topics. Feel free to suggest links
 * [Pimping Classic report (APEX 5.1)](https://blogs.oracle.com/apex/thats-a-classic-report-really)
 * [Interactive Report - Column background color](http://www.apex-at-work.com/2018/03/interactive-report-standard-column.html)
 * [Datepicker Customization](http://max-tremblay.blogspot.de/2018/03/datepicker-customization.html)
+* [Custom APEX Notification Messages (APEX 5.1)](https://www.talkapex.com/2018/03/custom-apex-notification-messages/)
+* [APEX Page Item Source vs Default (APEX5.1)](https://www.talkapex.com/2018/04/apex-page-item-source-vs-default/)
 
 ## PlugIns
 * [Select2 APEX Plugin)](https://github.com/nbuytaert1/apex-select2)
@@ -95,6 +97,7 @@ This repository contains links regarding APEX topics. Feel free to suggest links
 * [QuickSQL - rapid db modeling](https://apex.oracle.com/en/quicksql/)
   * [Introduction](http://www.explorer.uk.com/quicksql-saves-time/)
 * [ATAF - APEX test automation framework](https://github.com/schunt1/ATAF)
+* [APEX TabLock](http://www.explorer.uk.com/introducing-apex-tablock/)
 
 ## Development & Deployment
 
@@ -109,6 +112,7 @@ This repository contains links regarding APEX topics. Feel free to suggest links
 * [Removing Outliers using stddev()](http://www.grassroots-oracle.com/2017/06/removing-outliers-using-stddev.html)
 * [Use the index Luke](http://use-the-index-luke.com/)
 * [Tuning General Parameters for Parallel Execution](https://docs.oracle.com/database/121/VLDBG/GUID-8632FD0C-AB90-4F1F-81B3-58D24C3AAD74.htm#VLDBG1481)
+* [How to write conditional logic in SQL](https://svenweller.wordpress.com/2018/04/05/basic-sql-if-then-else/)
 
 ## Misc
 
