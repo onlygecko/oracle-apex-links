@@ -60,7 +60,8 @@ This repository contains links regarding APEX topics. Feel free to suggest links
 * [Interactive Report - Column background color](http://www.apex-at-work.com/2018/03/interactive-report-standard-column.html)
 * [Datepicker Customization](http://max-tremblay.blogspot.de/2018/03/datepicker-customization.html)
 * [Custom APEX Notification Messages (APEX 5.1)](https://www.talkapex.com/2018/03/custom-apex-notification-messages/)
-* [APEX Page Item Source vs Default (APEX5.1)](https://www.talkapex.com/2018/04/apex-page-item-source-vs-default/)
+* [APEX Page Item Source vs Default (APEX 5.1)](https://www.talkapex.com/2018/04/apex-page-item-source-vs-default/)
+* [How to make any table header sticky (APEX 5.1)](http://apexbyg.blogspot.de/2017/04/how-to-make-any-table-header-sticky.html)
 
 ## PlugIns
 * [Select2 APEX Plugin)](https://github.com/nbuytaert1/apex-select2)
@@ -98,6 +99,7 @@ This repository contains links regarding APEX topics. Feel free to suggest links
   * [Introduction](http://www.explorer.uk.com/quicksql-saves-time/)
 * [ATAF - APEX test automation framework](https://github.com/schunt1/ATAF)
 * [APEX TabLock](http://www.explorer.uk.com/introducing-apex-tablock/)
+* [Insum APEX Pro](https://github.com/insum-labs/insum-apex-pro)
 
 ## Development & Deployment
 
@@ -105,6 +107,7 @@ This repository contains links regarding APEX topics. Feel free to suggest links
   * https://github.com/Dani3lSun/docker-db-apex-dev
   * https://github.com/martindsouza/docker-oracle-setup/blob/master/README.md
   * https://medium.com/@marcelo.ochoa/managing-dev-test-training-apex-environment-with-docker-bd8a93ab4733
+  * https://github.com/martindsouza/docker-ords
 * [Oracle APEX Version Control](https://www.insum.ca/oracle-apex-version-control/)
 
 ## Oracle DB
@@ -117,3 +120,4 @@ This repository contains links regarding APEX topics. Feel free to suggest links
 ## Misc
 
 * [APEX Dashboard examples (competition results)](https://apex.oracle.com/pls/apex/f?p=59374:4:::NO:RP)
+* [High CPU Usage and APEX (again) (2011)](http://joelkallman.blogspot.de/2011/12/high-cpu-usage-and-apex-again.html)
